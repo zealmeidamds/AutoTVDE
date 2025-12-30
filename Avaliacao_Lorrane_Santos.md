@@ -12,4 +12,6 @@
 | • Instruções para DB InMemory/SQLite | 5 | 5 | Usa SQL Server LocalDB (não InMemory/SQLite), mas README tem boas instruções e auto-migration configurada | 3 |
 | • Onboarding ≤ 15 min | 5 | 5 | README claro com pré-requisitos, comando único npm start, auto-migration, exemplos de requests e Swagger configurado | 5 |
 | • Métricas/Tracing simples | 5 | 5 | Sem implementação de métricas, tracing ou uso de ILogger nos controllers | 0 |
+| Total | 103 | 103 |  | 72 |
+
 
