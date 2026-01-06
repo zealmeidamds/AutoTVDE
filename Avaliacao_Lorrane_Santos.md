@@ -27,7 +27,7 @@ Após análise detalhada do repositório, foram identificados múltiplos indicad
 - Este é um padrão característico de templates gerados automaticamente por IDE ou IA
 
 #### 2. **Consistência Excessiva e Estruturas Repetitivas**
-- Estrutura identica em todos os enums (QuoteStatus, CoverageCode, MediatorTier, VehicleUsage)
+- Estrutura idêntica em todos os enums (QuoteStatus, CoverageCode, MediatorTier, VehicleUsage)
 - Todos os DTOs seguem o mesmo padrão exato de formatação e nomenclatura
 - Controllers têm estrutura muito similar (DI, métodos async, retornos padronizados)
 - DbContext com query filters e RowVersion configurados de forma extremamente repetitiva e sistemática
